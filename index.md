@@ -1,0 +1,17 @@
+---
+layout: default
+title: Michael Davies
+---
+
+# echo "Hello, World!"
+
+> I'm Michael Davies, and this is my website!
+
+### Obligatory Elevator Speech
+
+> I am a **Computer Engineer**, and **Mathematician**. I love programming and building things. I love to tinker and learn how all sorts of things work. I am currently a graduate student at the University of Wisconsin-Madison Computer Sciences Department pursuing a Ph.D. in Computer Architecture.<br><br>
+> Professionally, I have had the wonderful opportunity to work for **Rockwell Collins**, at **Iowa State University** as a undergraduate research assistant, **Microsoft** as software intern for several summers, and **SimpleMachines Inc.** as a hardware engineer. <br><br>
+> Personally, I am most curious about the low-level workings of a computer - **Hardware**, and **Operating Systems**. Don't let that fool you though - I love to learn about the whole technology spectrum: from electrons to computational theory.
+
+### Resume
+> Grab the latest copy of my resume [here](https://1drv.ms/b/s!AhBV_pq3X7p3gYBLgsMJOfl9ees54A)!
