@@ -5,7 +5,9 @@ title: Michael Davies
 ## Education
 #### Graduate: **University of Wisconsin-Madison**
 #### <small>August 2018 - Present</small>
-> Studying **Computer Architecture**
+> Studying **Computer Architecture** <br>
+> NSF Graduate Research Fellow <br>
+> Advisor: Karu Sankaralingam
 
 #### Undergraduate: **Iowa State University**
 #### <small>August 2013 - December 2017</small>
